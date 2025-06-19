@@ -37,3 +37,13 @@ Sample of a .Net Core Web API to retrieve stories details from Hacker News API.
   }
 ]
 ```
+
+## Todo
+
+- Handle more types of exceptions/issues
+- Add Swagger for dev environments
+- Keep urls in env variables
+- Add authentication/authorization
+- Organize the models, services and interfaces in child projects (not needed yet because of simplicity)
+- Add unit testing
+- Add XML comments
