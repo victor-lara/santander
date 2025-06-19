@@ -22,6 +22,9 @@ Sample of a .Net Core Web API to retrieve stories details from Hacker News API.
 - To run locally perform a Get to this url
   http://localhost:5276/api/stories?n=100
 - Replace the value of n with the number of expected results.
+- Do the request using Postman, curl or any other tool that can handle JSON results.
+- Example of curl command
+  curl "http://localhost:5276/api/stories?n=100"
 
 ## Response model
 
