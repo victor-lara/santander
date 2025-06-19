@@ -23,7 +23,7 @@ Sample of a .Net Core Web API to retrieve stories details from Hacker News API.
   http://localhost:5276/api/stories?n=100
 - Replace the value of n with the number of expected results.
 
-## Resonse model
+## Response model
 
 ```json
 [
